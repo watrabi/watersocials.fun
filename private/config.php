@@ -1,7 +1,7 @@
 <?php
 
 // config
-define("sitename", "hotwtr");
+define("sitename", "Water Socials");
 define("baseurl", "/www/wwwroot/watersocials.fun");
 
 spl_autoload_register(function ($class_name) {

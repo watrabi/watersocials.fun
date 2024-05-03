@@ -1,0 +1,21 @@
+body, html {
+    padding: 0px;
+    margin: 0px;
+    font-family: Sans-Serif;
+}
+
+#main {
+    padding: 10px;
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    height: 100%;
+}
+
+.navbar {
+    display: flex;
+    justify-content: center;
+    background-color: #e3e3e3;
+    width: 100%;
+}
